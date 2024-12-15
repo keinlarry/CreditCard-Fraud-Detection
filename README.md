@@ -1,6 +1,6 @@
 # CreditCard-Fraud-Detection
 
-<img align="left" width="250" height="150" src="Image/creditcard.jpeg" style="margin-right: 15px;"> **Company ABC**, a major **credit card company**, faces challenges with their existing **fraud detection system**. The current system exhibits **slow responsiveness** in recognizing new **patterns of fraud**, leading to **significant financial losses**.  
+<img align="left" width="250" height="150" src="Image/creditcard.gif" style="margin-right: 15px;"> **Company ABC**, a major **credit card company**, faces challenges with their existing **fraud detection system**. The current system exhibits **slow responsiveness** in recognizing new **patterns of fraud**, leading to **significant financial losses**.  
 
 To address this issue, they have contracted us to **design** and **implement** an **algorithm** that can **efficiently identify** and **flag** potentially **fraudulent transactions** for further **investigation**. 
 
